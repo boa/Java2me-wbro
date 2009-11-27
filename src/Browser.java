@@ -10,6 +10,7 @@ import java.util.*;
 /**
    A simple Web Browser with minimal functionality.
    @author Jose M. Vidal
+   hehehe
 */
 public class Browser {
 
