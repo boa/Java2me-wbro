@@ -7,6 +7,8 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
 
+mutator2323
+
 /**
    A simple Web Browser with minimal functionality.
    @author Jose M. Vidal
